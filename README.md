@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chhetriabi
-- 👀 I’m interested in Cybersecruity and SysAdmin
-- 🌱 I’m currently learning ComptiaSec+
+- 👀 Interested in Cybersecruity and SysAdmin Stuff
+- 🌱 ISC 2, Comptia Sec+ and TryHackMe in process
 - 📫 Reach me at chhetriabi@gmail.com
 
 <!---
