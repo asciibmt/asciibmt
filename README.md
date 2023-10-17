@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chhetriabi
+- 👋 Hi, I'm asciibmt or Abi
 - 👀 Interested in Cybersecruity and SysAdmin Stuff
 - 🌱 ISC 2, Comptia Sec+ and TryHackMe in process
 - 📫 Reach me at chhetriabi@gmail.com
